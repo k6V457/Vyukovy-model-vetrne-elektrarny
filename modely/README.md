@@ -1,0 +1,1 @@
+modely ve formátu stl ppřipravené pro tisk
